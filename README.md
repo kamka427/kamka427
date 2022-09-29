@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a third year Computer Science student at Eötvös Loránd University. I am always looking for where can I improve, and give my all to the challenges I face. I like working in a team and sharing my knowledge with others. My hobbies include trying new technologies, wall climbing, exercising, and hanging out with others.
+
 <!--
 **kamka427/kamka427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
